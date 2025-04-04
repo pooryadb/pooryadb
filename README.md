@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pooryadb
 - 👀 I’m interested in Android & Kotlin
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: https://t.me/pooryadb or dev.poorya.db@gmail.com
 
 <!---
